@@ -1,2 +1,2 @@
 # app-movil
-App nativa android
+App android
